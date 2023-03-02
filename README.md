@@ -1,7 +1,5 @@
 # redux-store-pricing-app
 
-copy paste the files in respective folder
-
-run command: npm install
-
-after installing all the packages, run: npm start
+1)copy paste the files in respective folder
+2)run command: npm install
+3)after installing all the packages, run: npm start to run the app successfully
